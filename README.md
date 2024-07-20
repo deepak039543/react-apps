@@ -27,7 +27,7 @@
   </style> -->
 </head>
 <body>
-   <h1>10 Best React Projects</h1>
+   <h1>10 Beginner-Friendly React Projects</h1>
   <h2> 1. TempTracker</h1>
   <p>TempTracker is a simple and beautiful weather application that allows users to check the current weather details for any city. Built with React and integrated with the WeatherAPI, TempTracker provides users with real-time weather information.</p>
 
